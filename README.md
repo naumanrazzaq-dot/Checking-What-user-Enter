@@ -1,1 +1,1 @@
-This is C++ program in which we have to check that what user enter .
+This is C++ program in which we have to check that what user enter 
